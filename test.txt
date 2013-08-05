@@ -1,0 +1,35 @@
+Handle Created as Disabled
+Creator & Modifier ID: 136
+statusid: 2
+MediaType: 31
+twitterhandle: @martin_rufus
+outletid: -1
+addressid: -1
+productid: 2
+1 - For English (Default)
+tweets: 0
+followers: 11
+twitterbio: Red Egg info Expert Employee
+twitteruserid: 329015361
+categoryHashtable: {318=, 342=, 349=}
+tagarray: [Test]
+0 - Line ID (default) 
+CountryID: 233
+----------------------------
+Changed as Incomplete
+userid: 136
+statusid: 3
+31
+twitterhandle: @martin_rufus
+outletid: 534363
+addressid: 1810791
+productid: 2
+1
+tweets: 0
+followers: 11
+twitterbio: Red Egg info Expert Employee
+twitteruserid: 0
+categoryHashtable: {318=, 342=, 349=}
+tagarray: [Test]
+0
+233
